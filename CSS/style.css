@@ -1,0 +1,41 @@
+.navbg{
+    background-color: #1f1463;
+}
+.navbar{
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.3);
+}
+.bg1{
+    background-color: #1f1463;
+    height: 100%;
+    padding-bottom: 50px;
+}
+
+.cardstyle{
+    margin-top: 30px;
+    border-radius: 5%;
+}
+.cardstyle2{
+    margin-top: 30px;
+    border-radius: 2%;
+    
+}
+.card-img-wrap{
+    overflow: hidden;
+    position: relative;  
+    border-radius: 5%; 
+}
+.card-img-wrap img {
+    transition: transform .25s;
+    width: 100%;
+    border-radius: 5%;
+}
+.card-img-wrap:hover img {
+    transform: scale(1.2);
+    border-radius: 5%;
+}
+.cardtitle{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    color: #ff5f00;
+    text-align: center;
+}
