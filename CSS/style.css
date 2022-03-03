@@ -139,5 +139,8 @@
     
 }
 @media (max-width:586px){
-    
+    .postdetailsdiv2{
+        padding-left: 5px;
+        padding-right: 5px;
+    }
 }
